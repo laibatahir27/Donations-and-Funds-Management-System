@@ -44,5 +44,5 @@ This project simulates a real-world NGO/Charity organization platform. Beyond ju
 Donations-Management/
 │
 ├── Documentation/
-│   ├── SRS_Document.pdf              # Functional & Non-Functional Requirements
-│   └── Architecture_&_UML_Design.pdf # Use Case, Class, & Sequence Diagrams
+│   ├── Software_Requirements_Specification_(SRS).pdf            
+│   
